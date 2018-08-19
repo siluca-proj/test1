@@ -6,6 +6,8 @@
 //  Copyright © 2018年 久米 健司. All rights reserved.
 //
 
+// コミットテスト
+
 import UIKit
 
 class ViewController: UIViewController {
