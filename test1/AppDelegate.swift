@@ -4,7 +4,7 @@
 //
 //  Created by 久米 健司 on 2018/08/19.
 //  Copyright © 2018年 久米 健司. All rights reserved.
-//
+// 追加　その5
 
 import UIKit
 
