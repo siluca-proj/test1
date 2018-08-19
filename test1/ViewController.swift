@@ -6,7 +6,7 @@
 //  Copyright © 2018年 久米 健司. All rights reserved.
 //
 
-// コミットテスト
+// コミットテスト その2
 
 import UIKit
 
